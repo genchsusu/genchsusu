@@ -10,7 +10,7 @@
 <br>
 </p>
 
-<center>
+<div align="center">
 
 | <div style="width:150px"></div>         | <div style="width:150px"></div>         | <div style="width:150px"></div>         |
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
@@ -18,4 +18,4 @@
 | <img src="./static/04.png" width="100"> | <img src="./static/05.png" width="100"> | <img src="./static/06.png" width="100"> |
 | <img src="./static/07.png" width="100"> | <img src="./static/08.png" width="100"> | <img src="./static/09.png" width="100"> |
 
-</center>
+</div>
