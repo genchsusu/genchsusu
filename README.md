@@ -1,6 +1,3 @@
-<br>
-<br>
-<br>
 <p align="center">
 	<img src="./static/github.webp" width="100">
 	<img src="./static/vscode.webp" width="100">
